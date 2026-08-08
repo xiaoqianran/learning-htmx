@@ -1,0 +1,3 @@
+# learning-htmx full outline
+See src/data/lessons.ts for 45 lessons across tracks:
+基础 / 进阶 / 交互模式 / 全栈实训 / 工程化 / 进阶模式 / 官网对齐
